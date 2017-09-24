@@ -10,6 +10,10 @@
         - Reshape & Flatten
         - New axis
         - Concatenate
+    - 03_Operation.ipynb
+        - Vectorized Operation
+        - Dimension Reduction
+        - Sort
     
 - Pandas
 - Matplotlib
