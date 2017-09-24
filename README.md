@@ -1,5 +1,12 @@
 # Py_NPM
 - NumPy
+    - 01_numpy_basic.ipynb
+        - 배열 생성(리스트, ndarray객체)
+        - 배열의 차원 & 모양
+        - 배열 인덱싱 & 슬라이싱
+        - Fancy Indexing
+    - 02_
+    
 - Pandas
 - Matplotlib
 
