@@ -16,6 +16,11 @@
         - Sort
     
 - Pandas
+    - 01_Series.ipynb
+        - Series 생성
+        - Series 속성
+        - 인덱싱 & 슬라이싱 & 인덱싱 기반 연산
+        - Series & Dictionary
 - Matplotlib
 
 데이터 분석에서 꼭 필요한 패키지의 사용법에 대해 다룹니다.
