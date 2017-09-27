@@ -29,6 +29,9 @@
         - jupyter에서 csv 파일 생성
         - CSV 파일 데이터 읽기
         - DataFrame을 CSV 파일로 저장
+    - 04_Indexer.ipynb
+        - loc 인덱서
+        - iloc 인덱서
 - Matplotlib
 
 데이터 분석에서 꼭 필요한 패키지의 사용법에 대해 다룹니다.
