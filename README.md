@@ -25,6 +25,10 @@
         - DataFrame 생성
         - columns 인덱싱 & row 인덱싱
         - column 데이터 갱신&추가&삭제
+    - 03_DataFrame_IO.pynb
+        - jupyter에서 csv 파일 생성
+        - CSV 파일 데이터 읽기
+        - DataFrame을 CSV 파일로 저장
 - Matplotlib
 
 데이터 분석에서 꼭 필요한 패키지의 사용법에 대해 다룹니다.
