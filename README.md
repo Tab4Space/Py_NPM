@@ -36,6 +36,12 @@
         - 인덱스 교환
         - 다중 인덱스
         - 다중 인덱스 순서 교환
+    - 05_DataProcess.ipynb
+        - count
+        - value_counts
+        - sum
+        - apply
+        - 구간 나누기
 - Matplotlib
 
 데이터 분석에서 꼭 필요한 패키지의 사용법에 대해 다룹니다.
